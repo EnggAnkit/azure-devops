@@ -4,4 +4,4 @@ pool:
   vmimage: ubuntu
 
 steps:
-- bash: echo "first test azure-pipeline for azure devops"
+- bash: echo "first test azure-pipeline for azure-devops"
