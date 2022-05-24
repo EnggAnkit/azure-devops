@@ -1,0 +1,7 @@
+# code to test azure pipelines
+
+pool:
+  vmimage: ubuntu
+
+steps:
+- bash: echo "first test azure-pipeline for azure devops"
